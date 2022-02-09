@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tapasviji
-- 👀 I’m interested in ... CSE  
-- 🌱 I’m currently learning ... JEE
-- 💞️ I’m looking to collaborate on ... STUDIES
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ??
 
 <!---
